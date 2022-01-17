@@ -105,8 +105,8 @@ A continuación, escribe lo siguiente en tu terminal:
 
 ```bash
   $ cd repositorio-henry
-  
-  $ touch archivo-ejemplo.js
+
+  $ touch argit chivo-ejemplo.js
 ```
 
 Esto añadirá un nuevo archivo llamado "archivo-ejemplo.js" a tu proyecto.
